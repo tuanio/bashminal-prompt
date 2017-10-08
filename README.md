@@ -11,3 +11,4 @@ i use console c sharp for my command line name and my project name like that
          * This is the combine of 3 commandline: Bash on Linux, Terminal on MacOS X and Command Prompt on Windows.
          */
 
+![alt text](https://raw.githubusercontent.com/TuanNguyenVanAnh/bashminal-prompt/master/Untitled.png)
