@@ -12,3 +12,7 @@ i use console c sharp for my command line name and my project name like that
          */
 
 ![alt text](https://raw.githubusercontent.com/TuanNguyenVanAnh/bashminal-prompt/master/Untitled.png)
+
+
+
+![alt text](https://raw.githubusercontent.com/TuanNguyenVanAnh/bashminal-prompt/master/Untitled2.png)
