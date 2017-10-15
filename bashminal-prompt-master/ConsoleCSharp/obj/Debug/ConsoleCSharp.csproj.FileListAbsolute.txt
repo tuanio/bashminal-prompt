@@ -1,0 +1,6 @@
+c:\users\tuan\documents\visual studio 2013\Projects\ConsoleCSharp\ConsoleCSharp\bin\Debug\ConsoleCSharp.exe.config
+c:\users\tuan\documents\visual studio 2013\Projects\ConsoleCSharp\ConsoleCSharp\bin\Debug\ConsoleCSharp.exe
+c:\users\tuan\documents\visual studio 2013\Projects\ConsoleCSharp\ConsoleCSharp\bin\Debug\ConsoleCSharp.pdb
+c:\users\tuan\documents\visual studio 2013\Projects\ConsoleCSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.csprojResolveAssemblyReference.cache
+c:\users\tuan\documents\visual studio 2013\Projects\ConsoleCSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.exe
+c:\users\tuan\documents\visual studio 2013\Projects\ConsoleCSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.pdb
